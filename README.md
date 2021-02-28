@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haiax
 - 👀 I’m interested in home automation
-- 🌱 I’m currently learning Python, Node.jx
+- 🌱 I’m currently learning Python, Node.js
 - 💞️ I’m looking to collaborate on RaspberryPi on home automation
 - 📫 How to reach me - here on github
 
